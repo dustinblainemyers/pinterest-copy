@@ -1,0 +1,1 @@
+Recreation of pinterest's flex responsiveness formatting
